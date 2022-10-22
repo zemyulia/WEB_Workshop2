@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Muller Thin DEMO';
+	src: url('fonts_muller_thin_demo/muller_thin_demo.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts_muller_thin_demo/muller_thin_demo.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts_muller_thin_demo/muller_thin_demo.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts_muller_thin_demo/muller_thin_demo.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts_muller_thin_demo/muller_thin_demo.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts_muller_thin_demo/muller_thin_demo') format('svg'); /* Chrome < 4, Legacy iOS */
+}

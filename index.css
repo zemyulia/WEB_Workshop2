@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'Evgenia Deco';
+	src: url('fonts/evgenia_deco.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/evgenia_deco.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/evgenia_deco.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/evgenia_deco.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/evgenia_deco.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/evgenia_deco.svg#evgenia_deco') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Muller Thin DEMO';
+	src: url('fonts_muller_thin_demo/muller_thin_demo.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts_muller_thin_demo/muller_thin_demo.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts_muller_thin_demo/muller_thin_demo.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts_muller_thin_demo/muller_thin_demo.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts_muller_thin_demo/muller_thin_demo.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts_muller_thin_demo/muller_thin_demo') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Domestic Manners';
+	src: url('fonts_domestic_manners/domestic_manners.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts_domestic_manners/domestic_manners.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts_domestic_manners/domestic_manners.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts_domestic_manners/domestic_manners.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts_domestic_manners/domestic_manners.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts_domestic_manners/domestic_manners.svg#domestic_manners') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: '1 Flamme LET   Plain1.0';
+	src: url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+.head{
+    font-family: 'Evgenia Deco', sans-serif;
+}
+
+
+
+html{
+    background-color: rgba(0, 255, 255, 0.174);
+}
+
+.low{
+    background-color: rgba(211, 235, 133, 0.205);
+    font-family: '1 Flamme LET   Plain1.0', sans-serif;
+    color: rgb(0, 43, 7);
+}
+
+h2{
+    color: blue ;
+}
+.default{
+    background-color: rgba(137, 43, 226, 0.205);
+    font-family: 'Muller Thin DEMO', sans-serif;
+    color: rgb(3, 0, 96);
+}

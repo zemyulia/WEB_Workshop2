@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Domestic Manners';
+	src: url('fonts_domestic_manners/domestic_manners.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts_domestic_manners/domestic_manners.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts_domestic_manners/domestic_manners.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts_domestic_manners/domestic_manners.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts_domestic_manners/domestic_manners.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts_domestic_manners/domestic_manners.svg#domestic_manners') format('svg'); /* Chrome < 4, Legacy iOS */
+}

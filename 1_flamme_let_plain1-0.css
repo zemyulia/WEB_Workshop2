@@ -1,0 +1,9 @@
+@font-face {
+	font-family: '1 Flamme LET   Plain1.0';
+	src: url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts_1_flamme_let_plain1-0/1_flamme_let_plain1-0') format('svg'); /* Chrome < 4, Legacy iOS */
+}
